@@ -1,0 +1,9 @@
+Debug/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.list
+*.map
+*.json
